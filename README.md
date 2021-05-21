@@ -81,7 +81,9 @@ so 6F C3 00 00 0A 2C -> 6F C3 00 00 0A 2D
 <!-- USAGE EXAMPLES -->
 ## usage
 
-just run the modified exe file & enter a shit ass license 
+just run the modified exe file
+-> you need to enter a shit ass 64 char long license
 
+so a fake license would be : AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 Completed in 20minutes.
