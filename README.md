@@ -8,6 +8,11 @@
     <br />
 </p>
 
+
+## CREDITS 
+Before starting i would like to thanks:
+
+-nobody told me | https://www.twitch.tv/iowxd -> Gave me the exe & a license which i didn't even used 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -78,3 +83,5 @@ so 6F C3 00 00 0A 2C -> 6F C3 00 00 0A 2D
 
 just run the modified exe file
 
+
+Completed in 20minutes.
