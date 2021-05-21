@@ -81,7 +81,7 @@ so 6F C3 00 00 0A 2C -> 6F C3 00 00 0A 2D
 <!-- USAGE EXAMPLES -->
 ## usage
 
-just run the modified exe file
+just run the modified exe file & enter a shit ass license 
 
 
 Completed in 20minutes.
